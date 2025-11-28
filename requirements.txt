@@ -1,6 +1,15 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 gradio
 joblib
 scikit-learn
 pydantic
+=======
+gradio<6.0.0
+joblib
+scikit-learn
+pydantic
+plotly
+pandas
+>>>>>>> cf7a92a (Initial commit: House price predictor API)
